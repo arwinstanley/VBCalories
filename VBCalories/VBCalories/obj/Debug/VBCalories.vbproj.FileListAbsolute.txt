@@ -1,0 +1,16 @@
+F:\821\VBCalories\VBCalories\bin\Debug\VBCalories.exe.config
+F:\821\VBCalories\VBCalories\bin\Debug\VBCalories.exe
+F:\821\VBCalories\VBCalories\bin\Debug\VBCalories.pdb
+F:\821\VBCalories\VBCalories\bin\Debug\VBCalories.xml
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.vbprojResolveAssemblyReference.cache
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.frmCalories.resources
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.Resources.resources
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.vbproj.GenerateResource.Cache
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.exe
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.xml
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.pdb
+F:\821\VBCalories\VBCalories\obj\Debug\VBCalories.SplashScreen1.resources
+U:\2018\WinstanleyA\821\VBCalories\VBCalories\bin\Debug\VBCalories.exe.config
+U:\2018\WinstanleyA\821\VBCalories\VBCalories\obj\Debug\VBCalories.exe
+U:\2018\WinstanleyA\821\VBCalories\VBCalories\obj\Debug\VBCalories.xml
+U:\2018\WinstanleyA\821\VBCalories\VBCalories\obj\Debug\VBCalories.pdb
